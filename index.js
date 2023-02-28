@@ -18,12 +18,12 @@ const rl = createInterface(process.stdin, process.stdout)
 
 require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
 
-say('PutraModz', {
+say('FoxModz', {
   font: 'chrome',
   align: 'center',
   colors: ['red', 'magenta']
 })
-say(`⧻ NeXBotz2023 By @PutraModz`, { 
+say(`⧻ FoxNeXBotz2023 By @FoxModz`, { 
   font: 'console',
   align: 'center',
   colors: ['red', 'magenta']
